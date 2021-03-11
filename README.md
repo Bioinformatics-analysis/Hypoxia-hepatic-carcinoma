@@ -7,7 +7,7 @@ Kaplan–Meier survival analysis and Receiver operating characteristic curve ana
 Gene Signature independence validation analysis was used for Figure 4-D  
 Signature risk score comparison was for Figure 5A-D  
 Signature risk score stratified by clinical factors for Figure 6A-H  
-Nomogram and calibration plots for Figure 7A-D  
+Nomogram、ROC and calibration plots for Figure 7A-E  
 GSEA enrichment analysis was performed for 8A-B**  
 
 ## Citation  
